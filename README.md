@@ -1,5 +1,9 @@
 # Table riser
 
+- [x] unexpected issues:
+  - [x] bed heating wire stress break
+    - soldered
+
 - [x] Describe
 	- Sealed cement top slab
 	- Giant screw thread legs, bottom out flat, material unknown
@@ -15,12 +19,13 @@
 	- [ ] redesign to remove flaws
 
 - [ ] Print
-	- [ ] back left
-	- [ ] back mid
-	- [ ] back right
-	- [ ] front left
-	- [x] front mid
-	- [x] front right
+	- [x] desktop
+		- [x] back left
+		- [x] back mid
+		- [x] back right
+		- [x] front left
+		- [x] front mid
+		- [x] front right
 	- [ ] leg insert
 		- [ ] 2
 		- [ ] 3
