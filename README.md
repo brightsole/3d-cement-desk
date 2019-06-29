@@ -3,6 +3,15 @@
 - [x] unexpected issues:
   - [x] bed heating wire stress break
     - soldered
+  - [ ] foam latex better than pinkysil for desk
+    - buy foam latex
+    - buy cheap expanding foam insulation
+  - [ ] leg insert cement fills gaps poorly
+    - double-cast, one rough, one epoxy
+  - [x] too heavy
+    - styrofoam inset
+  - [ ] not structurally sound
+    - buy & insert cheap metal netting
 
 - [x] Describe
 	- Sealed cement top slab
@@ -10,15 +19,15 @@
 	- 3degree insert chamfer with finger grab cutback 
 	- Plastic leg screw inserts smol twist
 
-- [ ] Design
+- [x] Design
 	- [x] desk surface
 		- [x] cut into printable segments
-	- [ ] plastic leg screw insert
-	- [ ] redesign to remove flaws
-	- [ ] plastic/cement legs
+	- [x] plastic leg screw insert
+	- [x] redesign to remove flaws
+	- [x] plastic/cement legs
 	- [ ] redesign to remove flaws
 
-- [ ] Print
+- [x] Print
 	- [x] desktop
 		- [x] back left
 		- [x] back mid
@@ -26,38 +35,44 @@
 		- [x] front left
 		- [x] front mid
 		- [x] front right
-	- [ ] leg insert
-		- [ ] 2
-		- [ ] 3
-		- [ ] 4
-	- [ ] leg
-		- [ ] 2
-		- [ ] 3
-		- [ ] 4
+      ![desk](photos/desk_positive_prints.jpg)
+	- [x] leg insert
+		- [x] 2
+		- [x] 3
+		- [x] 4
+      ![desk](photos/leg_inserts.jpg)
+	- [x] leg
+		- [x] 2
 
-- [ ] Cleanup
-	- [ ] clear flashing
-	- [ ] rough sand sides
+- [x] Cleanup
+	- [x] clear flashing
+	- [x] rough sand sides
 
-- [ ] Assemble
-	- [ ] superglue desk pieces
+- [x] Assemble
+	- [x] superglue desk pieces
 
 - [ ] Mold
 	- [ ] desk
 		- [ ] coat assembled desk in oil
-		- [ ] buy posterboard
-		- [ ] silica posterboard around desk positive
-		- [ ] cast pinkysil negative
-	- [ ] leg?
-		- [ ] lego outside mold parts
-		- [ ] cast pinkysil
+		- [x] create cheap cardboard mold box
+    - [x] silicone seams
+      ![mold box, with materials](photos/mold_box.jpg)
+    - [ ] foam latex thin layer
+    - [ ] cheap foam latex filler/form/construction
+      ![mold box, ready to cast](photos/prepared_desk_mold_box.jpg)
+	- [x] leg?
+		- [x] lego outside mold parts
+		- [x] cast pinkysil
+      ![pinkysil ready for casting](photos/leg_mold.jpg)
 
 - [ ] Casting
 	- [ ] desk
 		- [ ] insert leg insert 1-4
 		- [ ] cast cement positive
-	- [ ] legs
-		- [ ] cast
+	- [x] legs
+		- [x] test cast
+      ![test cast](photos/leg_cast_1.jpg)
+    - [ ] cast
 			- [ ] 2
 			- [ ] 3
 			- [ ] 4
